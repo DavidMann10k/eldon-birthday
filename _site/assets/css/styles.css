@@ -4,6 +4,8 @@ body { height: 100%; font-family: 'Indie Flower', cursive; }
 
 h1, h2 { font-family: 'Bungee Shade', cursive; }
 
-.image-row { height: 70%; }
+.image-row { height: 65%; }
 
 .crop-image { height: 100%; width: 100%; background-image: url("/assets/images/eldon.jpg"); background-size: cover; background-position: center 50%; background-repeat: no-repeat; }
+
+.source-bold { font-family: 'Source Sans Pro', sans-serif; font-weight: bold; }
